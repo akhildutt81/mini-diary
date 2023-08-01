@@ -15,3 +15,6 @@ You can opt out of tracking by the Fathom software by enabling "Do Not Track" in
 ## Contact
 
 Please do not hesitate to [contact me](https://samuelmeuli.com) for questions about this privacy policy.
+
+
+
